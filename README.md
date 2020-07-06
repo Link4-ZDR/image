@@ -1,2 +1,2 @@
-# image
-Projekt służy do przechowywania obrazów wykorzystywanych w usłudze PowerBi
+# Image
+Projekt służy do przechowywania obrazów wykorzystywanych w usłudze PowerBi.
